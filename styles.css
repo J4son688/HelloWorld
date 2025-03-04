@@ -44,7 +44,7 @@ margin: 0 10px;
 }
 
 
-nav a:hover {
+nav a:highlight {
 
 text-decoration: underline;
 
