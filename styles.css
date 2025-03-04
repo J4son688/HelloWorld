@@ -44,9 +44,9 @@ margin: 0 10px;
 }
 
 
-nav a:highlight {
+nav a:hover {
 
-text-decoration: underline;
+text-decoration: underline,bold;
 
 }
 main {
