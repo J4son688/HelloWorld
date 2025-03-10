@@ -15,7 +15,7 @@ line-height: 1.6;
 }
 header {
 
-background-color: #48d1cc;
+background-color: none;
 
 color: black;
 
@@ -74,13 +74,11 @@ background-color: #333;
 
 color: white;
 
-text-align: center;
+text-align:bottom;
 
 padding: 10px;
 
 position: center;
-
-bottom: left;
 
 width: 100%;
 } 
