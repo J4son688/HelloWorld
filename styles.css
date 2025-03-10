@@ -39,14 +39,14 @@ color: white;
 
 text-decoration: none;
 
-margin: 0 10px;
+margin: 0 5px;
 
 }
 
 
 nav a:hover {
 
-text-decoration: underline,bold;
+color:#f03da8;
 
 }
 main {
